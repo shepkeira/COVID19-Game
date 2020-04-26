@@ -2,7 +2,7 @@
 my attempt at making a covid themed 2D platformer while in covid quarantine
 
 # How to run game
-download files, open index.html with a web browser, play!
+download files, open in Visual Studio Code, run go live, play!
 
 ## Game Idea
 * You have a character trying to get around outside while staying 6 ft away from everyone else
