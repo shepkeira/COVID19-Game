@@ -26,8 +26,11 @@ download files, open index.html with a web browser, play!
       * show circle around them (moves with character)
       * just jump along platforms
       * show timer (count down)
+   * Level 1 Feedback
+      * Gravity is too slow (gravity changed from 200 to 400)
+      * After gravity is changed jumping not right (jump speed set to 330)
 
-### Game Status
+## Game Status
 * Intro level with no enemies created
 * Basic physics implemented
 * Character, background, and platforms created
