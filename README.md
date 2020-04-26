@@ -27,4 +27,8 @@ download files, open index.html with a web browser, play!
       * just jump along platforms
       * show timer (count down)
 
+### Game Status
+* Intro level with no enemies created
+* Basic physics implemented
+* Character, background, and platforms created
 
