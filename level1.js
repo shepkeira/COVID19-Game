@@ -93,7 +93,7 @@ class Level1 extends Phaser.Scene {
             }
 
             if (gameState.cursors.up.isDown && gameState.player.body.onFloor()) {
-                gameState.player.setVelocityY(-200);
+                gameState.player.setVelocityY(-330);
             }
         }
         gameState.bubble.x = gameState.player.x - 6;
