@@ -12,7 +12,7 @@ download files, open index.html with a web browser, play!
 * Move using arrow keys including jumping
 * You lose time if someone gets into your 6ft bubble
 
-![GameIdeaPic](https://github.com/shepkeira/COVIDGame/blob/master/GameIdeaPic.JPG)
+![GameIdeaPic](https://github.com/shepkeira/COVID19-Game/blob/master/README_photos/GameIdeaPic.JPG)
 
 ## Game Structure
 * Start Screne
