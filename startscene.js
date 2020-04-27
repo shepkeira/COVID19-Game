@@ -9,7 +9,7 @@ class StartScene extends Phaser.Scene {
 
         this.input.on('pointerdown', () => {
             this.scene.stop('StartScene')
-            this.scene.start('Level1')
+            this.scene.start('Level2')
         })
     }
 }

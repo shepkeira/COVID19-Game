@@ -17,7 +17,8 @@ const config = {
     },
     scene: [
         StartScene,
-        Level1
+        Level1,
+        Level2
     ]
 };
 
