@@ -29,9 +29,17 @@ download files, open in Visual Studio Code, run go live, play!
    * Level 1 Feedback
       * Gravity is too slow (gravity changed from 200 to 400)
       * After gravity is changed jumping not right (jump speed set to 330)
+   * Level 2
+      * Enemy
+      * Health
+      * When enemy in bubble health lowered
+      * If health reach 0 Game Over
 
 ## Game Status
 * Intro level with no enemies created
 * Basic physics implemented
 * Character, background, and platforms created
+* Enemy created 
+* When enemy proimity detected
+* Health removed because of enemy
 
