@@ -2,7 +2,18 @@
 my attempt at making a covid themed 2D platformer while in covid quarantine
 
 # How to run game
-download files, open in Visual Studio Code, run go live, play!
+In a terminal window (command prompt in Windows) opened on your project folder, run this command:
+```npm install```
+In the same terminal window (command prompt in Windows) run this command:
+
+```npm start```
+
+Wait a second and index.html is loaded and displayed in your default browser served by your local web server!
+
+The local web server address is:
+http://localhost:10001
+
+CTRL+C to exit
 
 ## Game Idea
 * You have a character trying to get around outside while staying 6 ft away from everyone else
